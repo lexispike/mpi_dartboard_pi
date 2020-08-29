@@ -1,0 +1,27 @@
+wAlyxandra Spikerman
+Written for a course at Northeastern University: High Performance Computing
+
+Q3.c
+
+
+The program approximates the value of pi using the dartboard method.
+
+
+--HOW TO COMPILE--
+mpicc Q3.c -o Q3
+
+OR
+
+make Q3
+
+--HOW TO RUN--
+
+make run_Q3
+
+OR
+
+mpirun Q3
+
+
+Resources Used:
+- https://en.wikipedia.org/wiki/Monte_Carlo_integration
